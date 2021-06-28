@@ -4,7 +4,7 @@ most. During the game, players can sell weapons and armors to different factions
 stats and attack behavior. Number of weapons and armors that players can sell is limited in every 
 turn; therefore, they need to consider how much equipment they need to sell without disturbing the 
 balance and losing max profit.
-In each turn, players can
+In each turn, players can \n
 • see the information of faction(s);
 • sell weapons and armors to all the factions at war;
 • end the turn(day) after selling as much as equipment they want within the limit;
